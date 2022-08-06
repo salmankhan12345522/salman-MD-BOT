@@ -1,6 +1,6 @@
 
 // ⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈
-//▮SHEWON MD BOT 2022 ®️ALL RIGHTS RESERVED
+//▮Salman MD BOT 2022 ®️ALL RIGHTS RESERVED
 //▮
 //▮FORK AND DON'T FORGET TO GIVE A STAR
 //▮
@@ -8,7 +8,7 @@
 //▮
 //▮REPORT ABUSE OF THIS SOFTWARE
 //▮http://shewon.ml/
-//▮WHATSAPP US : +94 78 499 7828
+//▮WHATSAPP US : +923115160765
 //▮YOUTUBE CHANNELL: https://youtube.com/c/slcartooninstudio
 //▮
 //╰▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
@@ -37,14 +37,14 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['94784997828','']
-global.premium = ['94784997828','94784997828']
+global.owner = ['923231582002','']
+global.premium = ['92490441982','923490441982']
 global.botname = 'SHEWON MD BOT'
-global.ownername = 'Shewon'
-global.group1 = 'https://chat.whatsapp.com/Fm4u0QPs077451u4WIk6Lt'
-global.group2 = 'https://chat.whatsapp.com/KIcwDEHyuoL4SjxQgVW5gZ'
-global.packname = 'SHEWON MD BOT'
-global.ytchannel = 'https://youtube.com/c/slcartooninstudio'
+global.ownername = '๛ジW6丨SALMANツ'
+global.group1 = 'https://chat.whatsapp.com/JOe5QVTnScFJgcM165JbPt'
+global.group2 = 'https://chat.whatsapp.com/JOe5QVTnScFJgcM165JbPt'
+global.packname = '๛ジW6丨SALMANツ MD BOT'
+global.ytchannel = 'https://youtube.com/channel/UChB1mGs67yRIXLS3ahRVlbA
 global.monayawal = '100000'
 global.darahawal = '100'
 global.besiAwal = '15'
@@ -65,7 +65,7 @@ global.f3 = 'application/vnd.openxmlformats-officedocument.wordprocessingml.docu
 global.f4 = 'application/zip'
 global.f5 = 'application/pdf'
 global.f6 = 'application/vnd.android.package-archive'
-global.author = 'SHEWON'
+global.author = '๛ジW6丨SALMANツ'
 global.flaming = 'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=amped-logo&doScale=true&scaleWidth=800&scaleHeight=500&text='
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
